@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sandaruwan
 - 👀 I’m interested in Software Engineering 
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Fullstack Development 
 - 📫 How to reach me sandarusbandara110@gmail.com
 
