@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Fullstack Development 
 - 📫 Reach me on gmail : sandarusbandara110@gmail.com
-                 linkdin : www.linkedin.com/in/sandaruwan-bandara/
+                 linkdIn : www.linkedin.com/in/sandaruwan-bandara/
 
 <!---
 SandaruwanB/SandaruwanB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
