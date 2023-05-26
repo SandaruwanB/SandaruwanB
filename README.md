@@ -1,8 +1,10 @@
+#Welcome to my Profile
 - 👋 Hi, I’m @Sandaruwan
 - 👀 I’m interested in Software Engineering 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Fullstack Development 
-- 📫 How to reach me sandarusbandara110@gmail.com
+- 📫 Reach me on gmail : sandarusbandara110@gmail.com
+                 linkdin : www.linkedin.com/in/sandaruwan-bandara/
 
 <!---
 SandaruwanB/SandaruwanB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
