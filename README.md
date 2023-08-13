@@ -56,19 +56,7 @@ I'm [Sandaruwan Bandara](https://www.linkedin.com/in/sandaruwan-bandara/), a pas
     <a href="https://www.linkedin.com/in/sandaruwan-bandara/" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a> 
-    <a href="https://medium.com/@th.guibert" target="_blank">
+    <a href="https://www.facebook.com/profile.php?id=100094931564366&mibextid=ZbWKwL" target="_blank">
         <img alt="Facebook" src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
 </p>
-#Welcome to my Profile
-- 👋 Hi, I’m @Sandaruwan
-- 👀 I’m interested in Software Engineering 
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Fullstack Development 
-- 📫 Reach me on gmail : sandarusbandara110@gmail.com
-                 linkdIn : www.linkedin.com/in/sandaruwan-bandara/
-
-<!---
-SandaruwanB/SandaruwanB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
