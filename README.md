@@ -42,6 +42,8 @@ hi, i'm [Sandaruwan Bandara](https://www.linkedin.com/in/sandaruwan-bandara/), a
 
 - 💬 ask me about anything, i am happy to help;
 
+<br>
+<br>
 
 #Welcome to my Profile
 - 👋 Hi, I’m @Sandaruwan
