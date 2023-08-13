@@ -54,7 +54,7 @@ const detailsAboutMe = {
     askMeAbout: ["web dev", "tech", "app dev", "Stand alone Applications", "AI", "Database Administration and Creation"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express", "Php", "Python"],
+            things: ["Node", "Fastify", "Express", "Php", "Python"],
         },
         frontEnd: {
             frameworks: ["React", "VueJs"],
