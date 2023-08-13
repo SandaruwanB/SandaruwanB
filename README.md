@@ -60,3 +60,6 @@ I'm [Sandaruwan Bandara](https://www.linkedin.com/in/sandaruwan-bandara/), a pas
         <img alt="Facebook" src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
 </p>
+
+<hr>
+<br>
