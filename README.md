@@ -44,6 +44,35 @@ I'm [Sandaruwan Bandara](https://www.linkedin.com/in/sandaruwan-bandara/), a pas
 
 <br>
 
+**A little more about me**
+
+```javascript
+
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "PHP", "C/C++", "Typescript", "CSS/SCSS"],
+    askMeAbout: ["web dev", "tech", "app dev", "Stand alone Applications", "AI", "Database Administration and Creation"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express", "Php", "Python"],
+        },
+        frontEnd: {
+            frameworks: ["React", "VueJs"],
+            libraries: ["Bootstrap", "Tailwind CSS", "SCSS"], 
+        }
+        mobileApp: {
+            native: ["Java", "Kotlin", "Flutter"],
+            hybrid: ["Expo", "React Native"],
+        },
+        devOps: ["AWS", "Docker"],
+        databases: ["mongo", "MySql", "sqlite", "Firebase", "Access"],
+        misc: ["Firebase", "Socket.IO", "php"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"]
+};
+
+```
+
 **Where to find me** 
 <p></p>
 <p>
