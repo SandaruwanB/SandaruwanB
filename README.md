@@ -59,16 +59,18 @@ const detailsAboutMe = {
         frontEnd: {
             frameworks: ["React", "VueJs"],
             libraries: ["Bootstrap", "Tailwind CSS", "SCSS"], 
-        }
+        },
         mobileApp: {
             native: ["Java", "Kotlin", "Flutter"],
             hybrid: ["Expo", "React Native"],
         },
+        webFrameworks : ["laravel", "django"],
+        desktopApps : ["Electron", "C#", ".net"], 
         devOps: ["AWS", "Docker"],
         databases: ["mongo", "MySql", "sqlite", "Firebase", "Access"],
         misc: ["Firebase", "Socket.IO", "php"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"]
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
 };
 
 ```
