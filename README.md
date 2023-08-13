@@ -29,7 +29,7 @@ hi, i'm [Sandaruwan Bandara](https://www.linkedin.com/in/sandaruwan-bandara/), a
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-43853d?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-DD0031?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-43853d?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="php" src="https://img.shields.io/badge/-Php-43853d?style=flat-square&logo=php&logoColor=white" />
   <img alt="Electron" src="https://img.shields.io/badge/-electron-43853d?style=flat-square&logo=electron&logoColor=white" />
