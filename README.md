@@ -4,7 +4,9 @@ hi, i'm [Sandaruwan Bandara](https://www.linkedin.com/in/sandaruwan-bandara/), a
 
 <p align="center">
     <img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+    <img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </p>
+
 #Welcome to my Profile
 - 👋 Hi, I’m @Sandaruwan
 - 👀 I’m interested in Software Engineering 
