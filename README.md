@@ -48,7 +48,7 @@ I'm [Sandaruwan Bandara](https://www.linkedin.com/in/sandaruwan-bandara/), a pas
 
 ```javascript
 
-const anmol = {
+const detailsAboutMe = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Java", "PHP", "C/C++", "Typescript", "CSS/SCSS"],
     askMeAbout: ["web dev", "tech", "app dev", "Stand alone Applications", "AI", "Database Administration and Creation"],
@@ -72,7 +72,7 @@ const anmol = {
 };
 
 ```
-
+<br>
 **Where to find me** 
 <p></p>
 <p>
