@@ -2,8 +2,9 @@
 
 hi, i'm [Sandaruwan Bandara](https://www.linkedin.com/in/sandaruwan-bandara/), a passionate self-taught full stack developer and a freelance software engineer from Sri Lanka. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-<img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" style="margin-left : 10%;" width="500" height="320" />
-
+<p align="center">
+    <img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+</p>
 #Welcome to my Profile
 - 👋 Hi, I’m @Sandaruwan
 - 👀 I’m interested in Software Engineering 
