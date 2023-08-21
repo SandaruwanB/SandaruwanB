@@ -71,7 +71,7 @@ const detailsAboutMe = {
         databases: ["mongo", "MySql", "sqlite", "Firebase", "Access"],
         misc: ["Firebase", "Socket.IO", "php"]
     },
-    architecture: ["MVC", "Progressive web applications", "Single page applications"],
+    architecture: ["MVC", "Client Server", "Single page applications"],
 };
 
 ```
