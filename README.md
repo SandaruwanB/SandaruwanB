@@ -51,27 +51,27 @@ I'm [Sandaruwan Bandara](https://www.linkedin.com/in/sandaruwan-bandara/), a pas
 
 const detailsAboutMe = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP", "C/C++", "Typescript", "CSS/SCSS"],
+    code: ["Javascript", "Python", "Java", "PHP", "C/C++", "CSS/SCSS", "C#", ".net"],
     askMeAbout: ["web dev", "tech", "app dev", "Stand alone Applications", "AI", "Database Administration and Creation"],
     technologies: {
         backEnd: {
-            things: ["Node", "Fastify", "Express", "Php", "Python"],
+            things: ["Node", "Fastify", "Express", "Php", "Python", "c#"],
         },
         frontEnd: {
             frameworks: ["React", "VueJs"],
-            libraries: ["Bootstrap", "Tailwind CSS", "SCSS"], 
+            libraries: ["Bootstrap", "SCSS", "MaterialUI], 
         },
         mobileApp: {
-            native: ["Java", "Kotlin", "Flutter"],
-            hybrid: ["Expo", "React Native"],
+            native: ["Java"],
+            hybrid: ["Expo", "React Native", "Flutter],
         },
-        webFrameworks : ["laravel", "django"],
-        desktopApps : ["Electron", "C#", ".net"], 
-        devOps: ["AWS", "Docker"],
-        databases: ["mongo", "MySql", "sqlite", "Firebase", "Access"],
+        webFrameworks : ["laravel", "django", "ASP.Net"],
+        desktopApps : ["Electron", "C#", ".net"],
+        databases: ["mongo", "MySql", "sqlite", "Firebase", "Access", "PostgreSql],
         misc: ["Firebase", "Socket.IO", "php"]
     },
     architecture: ["MVC", "Client Server", "Single page applications"],
+    versionControl: ["Git"],
 };
 
 ```
