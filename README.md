@@ -67,7 +67,7 @@ const detailsAboutMe = {
         },
         webFrameworks : ["laravel", "django", "ASP.Net"],
         desktopApps : ["Electron", "C#", ".net"],
-        databases: ["mongo", "MySql", "sqlite", "Firebase", "Access", "PostgreSql],
+        databases: ["mongo", "MySql", "sqlite", "Firebase", "Access", "PostgreSql"],
         misc: ["Firebase", "Socket.IO", "php"]
     },
     architecture: ["MVC", "Client Server", "Single page applications"],
