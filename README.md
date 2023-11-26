@@ -59,7 +59,7 @@ const detailsAboutMe = {
         },
         frontEnd: {
             frameworks: ["React", "VueJs"],
-            libraries: ["Bootstrap", "SCSS", "MaterialUI], 
+            libraries: ["Bootstrap", "SCSS", "MaterialUI"], 
         },
         mobileApp: {
             native: ["Java"],
