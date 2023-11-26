@@ -63,7 +63,7 @@ const detailsAboutMe = {
         },
         mobileApp: {
             native: ["Java"],
-            hybrid: ["Expo", "React Native", "Flutter],
+            hybrid: ["Expo", "React Native", "Flutter"],
         },
         webFrameworks : ["laravel", "django", "ASP.Net"],
         desktopApps : ["Electron", "C#", ".net"],
