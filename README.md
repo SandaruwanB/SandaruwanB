@@ -55,11 +55,12 @@ const detailsAboutMe = {
     askMeAbout: ["web dev", "tech", "app dev", "Stand alone Applications", "AI", "Database Administration and Creation"],
     technologies: {
         backEnd: {
-            things: ["Node", "Fastify", "Express", "Php", "Python", "c#"],
+            items: ["Node", "Fastify", "Express", "Php", "Python", "c#"],
         },
         frontEnd: {
             frameworks: ["React", "VueJs"],
             libraries: ["Bootstrap", "SCSS", "MaterialUI"], 
+            items: ["HTML", "HTML5", "XML", "CSS"],
         },
         mobileApp: {
             native: ["Java"],
