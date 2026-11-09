@@ -1,99 +1,83 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<div align="center">
 
-I'm [Sandaruwan Bandara](https://www.linkedin.com/in/sandaruwan-bandara/), a passionate self-taught full stack developer and a freelance software engineer from Sri Lanka. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-<h1></h1>
+# Principal Software Engineer & Solutions Architect
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-**languages and tools**  
-<p></p>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/-ReactNative-B7178C?style=flat-square&logo=reactnative&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-DD0031?style=flat-square&logo=laravel&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ebb434?style=flat-square&logo=firebase&logoColor=white" />
-  <img alt="php" src="https://img.shields.io/badge/-Php-5a83c4?style=flat-square&logo=php&logoColor=white" />
-  <img alt="Electron" src="https://img.shields.io/badge/-electron-4d4b46?style=flat-square&logo=electron&logoColor=white" />
-</p> 
-
-<p></p>
-<p></p>
-
-- 💼 any freelance work? do reach, [email](mailto:sandaruwanbandara.dev@gmail.com) :)
-
-- 💬 ask me about anything, i am happy to help;
-
-<br>
-<br>
-
-**A little more about me**
-
-```javascript
-
-const detailsAboutMe = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP", "C/C++", "CSS/SCSS", "C#", ".net"],
-    askMeAbout: ["web dev", "tech", "app dev", "Stand alone Applications", "AI", "Database Administration and Creation"],
-    technologies: {
-        backEnd: {
-            items: ["Node", "Fastify", "Express", "Php", "Python", "c#"],
-        },
-        frontEnd: {
-            frameworks: ["React", "VueJs"],
-            libraries: ["Bootstrap", "SCSS", "MaterialUI"], 
-            items: ["HTML", "HTML5", "XML", "CSS"],
-        },
-        mobileApp: {
-            native: ["Java"],
-            hybrid: ["Expo", "React Native", "Flutter"],
-        },
-        webFrameworks : ["laravel", "django", "ASP.Net"],
-        desktopApps : ["Electron", "C#", ".net"],
-        databases: ["mongo", "MySql", "sqlite", "Firebase", "Access", "PostgreSql"],
-        misc: ["Firebase", "Socket.IO", "php"]
-    },
-    architecture: ["MVC", "Client Server", "Single page applications"],
-    versionControl: ["Git"],
-};
-
-```
-<br>
-
-**Where to find me** 
-<p></p>
-<p>
-    <a href="https://github.com/SandaruwanB" target="_blank">
-        <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-    </a> 
-    <a href="https://twitter.com/Sandaruwan0013" target="_blank">
-        <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-    </a> 
-    <a href="https://www.linkedin.com/in/sandaruwan-bandara/" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a> 
-    <a href="https://www.facebook.com/profile.php?id=100094931564366&mibextid=ZbWKwL" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-    </a> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sandaruwan-bandara/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://github.com/SandaruwanB"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+  <a href="mailto:sandarusbandara110@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+  <a href="https://twitter.com/Sandaruwan0013"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>
 </p>
 
-<hr>
-<br>
+```
+  Enterprise Systems Architecture • Distributed Backends • Cloud Strategy • Technical Advisory
+```
+
+</div>
+
+---
+
+### Executive Profile
+
+Principal Software Engineer and Technical Solutions Architect specializing in the design and execution of resilient, high-throughput distributed systems and mission-critical enterprise platforms. Partnering with leadership teams and engineering organizations to bridge technical architecture with scalable business outcomes.
+
+- **System Architecture:** Distributed systems, event-driven backends, microservices & modular monoliths, high-availability multi-region designs.
+- **Strategic Advisory:** Technical due diligence, architecture audits, engineering roadmap governance, and cloud cost-to-performance optimization.
+- **Enterprise ERP:** Deep specialization in large-scale Odoo architectures, complex multi-tenant topologies, and advanced PostgreSQL performance engineering.
+
+---
+
+### Core Technical Arsenal
+
+#### Cloud Infrastructure & Platform Engineering
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+</p>
+
+#### Backend Engineering & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Odoo_Enterprise-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+</p>
+
+#### Data Architecture & Persistence
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+#### Client Platforms & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
+
+---
+
+<div align="center">
+  <sub>Fueling late-night open-source engineering & enterprise architecture research</sub><br/><br/>
+  <a href="https://buymeacoffee.com/sandarusba5" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" />
+  </a>
+</div>
